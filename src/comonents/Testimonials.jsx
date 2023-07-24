@@ -92,7 +92,7 @@ export default function Testimonials() {
 function Simplify() {
   return (
     <section>
-      <div className="mx-auto container flex flex-col items-center space-y-12 w-full bg-brightRed  p-12 md:flex-row md:items-center md:justify-around  md:space-y-0">
+      <div className="mx-auto container flex flex-col items-center space-y-12 w-full bg-brightRed  p-12 md:flex-row md:items-center md:justify-around md:max-w-full md:space-y-0">
         <h1 className="text-5xl text-bold text-white text-center leading-20 md:text-3xl md:max-w-sm md:text-left">
           Simplify how your team works today
         </h1>
